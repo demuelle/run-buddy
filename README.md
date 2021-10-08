@@ -11,6 +11,6 @@ A website that offers fitness training services.
 https://demuelle.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by [your name]
+Made with ❤️ by Dan M
 
 ### ©️2021 Run Buddy, Inc 
